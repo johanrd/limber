@@ -22,6 +22,8 @@ env:
   TURBO_API: http://127.0.0.1:9080
   TURBO_TOKEN: this-is-not-a-secret
   TURBO_TEAM: myself
+  # This repo is very strict, and we need a peer debugger
+  I_HAVE_BAD_PEER_DEPS_AND_WANT_A_BROKEN_BUILD: true
 
 permissions:
   contents: read

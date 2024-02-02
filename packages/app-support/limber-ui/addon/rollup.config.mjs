@@ -52,9 +52,9 @@ export default defineConfig({
         console.log("Building types");
         await execaCommand(`pnpm glint --declaration`, { stdio: "inherit" });
 
-        console.log("Fixing types");
-        await fixBadDeclarationOutput("declarations/**/*.d.ts", ["TypeScript#56571", "Glint#628"]);
-        console.log("⚠️ Dangerously (but neededly) fixed bad declaration output from typescript");
+        // console.log("Fixing types");
+        // await fixBadDeclarationOutput("declarations/**/*.d.ts", ["TypeScript#56571", "Glint#628"]);
+        // console.log("⚠️ Dangerously (but neededly) fixed bad declaration output from typescript");
       },
     },
   ],

@@ -43,6 +43,9 @@
     },
     "limber-ui": {
       "injected": true
+    },
+    "@nullvoxpopuli/limber-transpilation": {
+      "injected": true
     }
   },
   "devDependencies": {
