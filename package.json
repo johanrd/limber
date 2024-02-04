@@ -56,7 +56,20 @@
       "ember-modifier": "^4.1.0",
       "@types/eslint": "^8.0.0",
       "eslint-plugin-ember": "^12.0.0",
-      "ember-eslint-parser": "0.2.5"
+      "ember-eslint-parser": "0.2.5",
+      "@embroider/addon-dev": "4.1.4-unstable.70b1c6f",
+      "@embroider/addon-shim": "1.8.8-unstable.70b1c6f",
+      "@embroider/core": "3.4.4-unstable.70b1c6f",
+      "@embroider/compat": "3.4.4-unstable.70b1c6f",
+      "@embroider/macros": "1.13.5-unstable.70b1c6f",
+      "@embroider/hbs-loader": "3.0.4-unstable.70b1c6f",
+      "@embroider/reverse-exports": "0.1.1-unstable.70b1c6f",
+      "@embroider/router": "2.1.7-unstable.70b1c6f",
+      "@embroider/shared-internals": "2.5.2-unstable.70b1c6f",
+      "@embroider/test-setup": "3.0.4-unstable.70b1c6f",
+      "@embroider/util": "1.12.2-unstable.70b1c6f",
+      "@embroider/vite": "0.2.1-unstable.70b1c6f",
+      "@embroider/webpack": "3.2.2-unstable.70b1c6f"
     },
     "allowedDeprecatedVersions": {
       "source-map-url": "^0.3.0",
