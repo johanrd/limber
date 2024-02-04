@@ -12,7 +12,7 @@ overrides:
   '@glimmer/tracking': ^1.1.2
   ember-auto-import: ^2.7.0
 
-packageExtensionsChecksum: 40ad8b3e5330aa14246b716f4775fc46
+packageExtensionsChecksum: d149e40831c6e913332a3a819b17d91f
 
 importers:
 

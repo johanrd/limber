@@ -57,7 +57,7 @@
       },
       "@glimmer/syntax@0.84.3": {
         "dependencies": {
-          "@glimmer/env": "*"
+          "@glimmer/env": "^0.1.7"
         }
       },
       "@codemirror/lang-liquid": {
